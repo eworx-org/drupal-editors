@@ -34,6 +34,7 @@ Notice that the list does not contain "widget level" modules but only the high l
   - ckeditor_templates
   - ckeditor_templates_ui
   - wysiwyg_template
+  - ckeditor_standalone_styles
   - embed
   - entity_embed
   - url_embed
