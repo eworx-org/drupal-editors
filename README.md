@@ -86,7 +86,7 @@ The modules below are used to help Developers to create the best authoring tools
 
 ## Validation matrix key parameters
 
-When validating an AUhoring tool for Drupal, these are the options we need to take under consideration so we choose the solution that fits our case.
+When **validating** an Auhoring tool for Drupal, these are the options we need to take under consideration so we choose the solution that fits our case.
 
 - Assymetric data
 - Copy - paste elements
@@ -122,8 +122,6 @@ When validating an AUhoring tool for Drupal, these are the options we need to ta
 - Usage on D.O.
 - Users can break it
 - Workflow and states
-
----
 
 ## LICENSE
 
