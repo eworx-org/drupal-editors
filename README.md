@@ -28,6 +28,7 @@ Notice that the list does not contain "widget level" modules but only the high l
   - layout_options
   - layoutcomponents
   - layout_builder_base
+  - layoutbuilder_extras
   - ui_styles
   - varbase_layout_builder
 - **ckeditor** (core)
