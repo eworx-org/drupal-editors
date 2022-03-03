@@ -24,10 +24,11 @@ Notice that the list does not contain "widget level" modules but only the high l
   - paragraphs_asymmetric_translation_widgets
 - **layout_builder** (core)
   - media_library_form_element
+  - layout_builder_base
+  - layout_builder_restrictions
   - layout_paragraphs
   - layout_options
   - layoutcomponents
-  - layout_builder_base
   - layoutbuilder_extras
   - ui_styles
   - varbase_layout_builder
