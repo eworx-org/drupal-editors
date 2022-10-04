@@ -22,7 +22,6 @@ Notice that the list does not contain "widget level" modules but only the high l
   - [geysir](https://drupal.org/project/geysir)
   - [paragraphs_previewer](https://drupal.org/project/paragraphs_previewer)
   - [paragraphs_asymmetric_translation_widgets](https://drupal.org/project/paragraphs_asymmetric_translation_widgets)
-
 - [**layout_builder**](https://drupal.org/project/layout_builder) (core)
   - [media_library_form_element](https://drupal.org/project/media_library_form_element)
   - [layout_builder_base](https://drupal.org/project/layout_builder_base)
@@ -33,7 +32,6 @@ Notice that the list does not contain "widget level" modules but only the high l
   - [layoutbuilder_extras](https://drupal.org/project/layoutbuilder_extras)
   - [ui_styles](https://drupal.org/project/ui_styles)
   - [varbase_layout_builder](https://drupal.org/project/varbase_layout_builder)
-
 - [**ckeditor**](https://drupal.org/project/ckeditor) (core)
   - [ckeditor_templates](https://drupal.org/project/ckeditor_templates)
   - [ckeditor_templates_ui](https://drupal.org/project/ckeditor_templates_ui)
@@ -44,7 +42,6 @@ Notice that the list does not contain "widget level" modules but only the high l
   - [url_embed](https://drupal.org/project/url_embed)
   - [shortcode](https://drupal.org/project/shortcode)
   - [shortify](https://drupal.org/project/shortify)
-
 - [**gutenberg**](https://drupal.org/project/gutenberg)
 - [**h5p**](https://drupal.org/project/h5p)
 - [**inline_entity_form**](https://drupal.org/project/inline_entity_form)
