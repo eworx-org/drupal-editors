@@ -63,7 +63,27 @@ Notice that the list does not contain "widget level" modules but only the high l
 
 ## Media and Files management
 
-`ToDo`
+Drupal file browsers:
+
+- media (core)
+- [imce](https://drupal.org/project/imce)
+- [dfm](https://drupal.org/project/dfm)
+- [flmngr](https://www.drupal.org/project/flmngr)
+- [filebrowser](https://www.drupal.org/project/filebrowser)
+- [plupload](https://www.drupal.org/project/plupload)
+- [file_browser](https://www.drupal.org/project/file_browser)
+
+Drupal file utilities:
+
+- [filefield_sources](https://www.drupal.org/project/filefield_sources)
+- [filefield_paths](https://www.drupal.org/project/filefield_paths)
+- [external_media](https://www.drupal.org/project/external_media)
+
+Other (paid):
+
+- https://ckeditor.com/ckfinder
+- https://ckeditor.com/ckbox
+- 
 
 ## Modules for site Builders, Themers
 
@@ -131,4 +151,5 @@ When **validating** an Auhoring tool for Drupal, these are the options we need t
 ## LICENSE
 
 [MIT](LICENSE) 
-- [Copyright](https://drupal.org/project/Copyright) (c) 2022 [EWORX S.A.](https://github.com/eworx-org)
+
+Copyright (c) 2022 [EWORX S.A.](https://github.com/eworx-org)
