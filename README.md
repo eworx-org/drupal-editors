@@ -2,8 +2,6 @@
 
 A list of Drupal 8.x + solutions for content authoring and site building.
 
-Items without a link refer to Drupal.org projects.
-
 ## Modules for Authors (Open Source)
 
 The modules below are used to help Authors add and edit content on a Drupal website.
@@ -55,13 +53,13 @@ Notice that the list does not contain "widget level" modules but only the high l
 
 ## Modules and plugins for Authors (Commercial)
 
-- [https://dxpr.com/drupal-layout-builder](https://drupal.org/project/https://dxpr.com/drupal-layout-builder)
-- [https://www.acquia.com/products/drupal-cloud/site-studio](https://drupal.org/project/https://www.acquia.com/products/drupal-cloud/site-studio)
-- [https://n1ed.com](https://drupal.org/project/https://n1ed.com) (integration with Drupal)
-- [https://setka.io](https://drupal.org/project/https://setka.io)
-- [https://froala.com](https://drupal.org/project/https://froala.com)
-- [https://ckeditor.com](https://drupal.org/project/https://ckeditor.com) (Commercial edition)
-- [https://shuffle.dev](https://drupal.org/project/https://shuffle.dev)
+- [https://dxpr.com/drupal-layout-builder](https://dxpr.com/drupal-layout-builder)
+- [Acquia.com - site-studio](https://www.acquia.com/products/drupal-cloud/site-studio)
+- [https://n1ed.com](https://n1ed.com) (integration with Drupal)
+- [https://setka.io](https://setka.io)
+- [https://froala.com](https://froala.com)
+- [https://ckeditor.com](https://ckeditor.com) (Commercial edition)
+- [https://shuffle.dev](https://shuffle.dev)
 
 ## Media and Files management
 
@@ -78,18 +76,18 @@ The modules below are used to help Developers to create the best authoring tools
 - [ui_patterns](https://drupal.org/project/ui_patterns)
 - [components](https://drupal.org/project/components)
 - [block_field](https://drupal.org/project/block_field)
-- [panels,](https://drupal.org/project/panels,) panelizer
+- [panels](https://drupal.org/project/panels), panelizer
 - [patternkit](https://drupal.org/project/patternkit)
 - [custom_elements](https://drupal.org/project/custom_elements)
 - [sfc](https://drupal.org/project/sfc)
 
 ## Drupal Themes
 
-- [https://github.com/emulsify-ds/emulsify-drupal](https://drupal.org/project/https://github.com/emulsify-ds/emulsify-drupal)
-- [https://www.drupal.org/project/gesso](https://drupal.org/project/https://www.drupal.org/project/gesso)
-- [https://github.com/promet/provus](https://drupal.org/project/https://github.com/promet/provus)
-- [https://github.com/DuoConsulting/duo_foundation](https://drupal.org/project/https://github.com/DuoConsulting/duo_foundation) (based on Foundation)
-- [https://github.com/openeuropa/oe_theme](https://drupal.org/project/https://github.com/openeuropa/oe_theme)
+- [https://github.com/emulsify-ds/emulsify-drupal](https://github.com/emulsify-ds/emulsify-drupal)
+- [https://www.drupal.org/project/gesso](https://www.drupal.org/project/gesso)
+- [https://github.com/promet/provus](https://github.com/promet/provus)
+- [https://github.com/DuoConsulting/duo_foundation](https://github.com/DuoConsulting/duo_foundation) (based on Foundation)
+- [https://github.com/openeuropa/oe_theme](https://github.com/openeuropa/oe_theme)
 
 ## Validation matrix key parameters
 
