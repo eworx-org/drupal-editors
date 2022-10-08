@@ -83,7 +83,6 @@ Other (paid):
 
 - https://ckeditor.com/ckfinder
 - https://ckeditor.com/ckbox
-- 
 
 ## Modules for site Builders, Themers
 
