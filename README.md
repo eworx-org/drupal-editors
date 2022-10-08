@@ -86,7 +86,8 @@ Other (paid):
 
 ## Modules for site Builders, Themers
 
-The modules below are used to help Developers to create the best authoring tools and UI for Drupal.
+The modules below are used to help Developers to create the best authoring tools and UI for Drupal. 
+See also the work of [ D.O. UI Suite Initiative](https://www.drupal.org/project/ui_suite).
 
 - [paragraphs](https://drupal.org/project/paragraphs)
 - [ds](https://drupal.org/project/ds)
@@ -96,6 +97,7 @@ The modules below are used to help Developers to create the best authoring tools
 - [components](https://drupal.org/project/components)
 - [block_field](https://drupal.org/project/block_field)
 - [panels](https://drupal.org/project/panels), panelizer
+- [cl_components](https://www.drupal.org/project/cl_components)
 - [patternkit](https://drupal.org/project/patternkit)
 - [custom_elements](https://drupal.org/project/custom_elements)
 - [sfc](https://drupal.org/project/sfc)
