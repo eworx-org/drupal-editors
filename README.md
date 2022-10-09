@@ -86,7 +86,7 @@ Notice that the list does not contain "widget level" modules but only the high l
 
 ## Modules for site Builders, Themers
 
-The modules below are used to help Developers to create the best authoring tools and UI for Drupal. 
+The modules below are used to help Developers to create the best authoring tools and UI for Drupal.
 See also the work of [D.O. UI Suite Initiative](https://www.drupal.org/project/ui_suite).
 
 - [paragraphs](https://www.drupal.org/project/paragraphs)
@@ -151,6 +151,6 @@ When **validating** an Auhoring tool for Drupal, these are the options we need t
 
 ## LICENSE
 
-[MIT](LICENSE) 
+[MIT](LICENSE)
 
 Copyright (c) 2022 [EWORX S.A.](https://github.com/eworx-org)
