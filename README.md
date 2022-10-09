@@ -63,7 +63,7 @@ Notice that the list does not contain "widget level" modules but only the high l
 
 ## Media and Files management
 
-Drupal file browsers:
+### Drupal file browsers:
 
 - media (core)
 - [imce](https://www.drupal.org/project/imce)
@@ -73,13 +73,13 @@ Drupal file browsers:
 - [plupload](https://www.drupal.org/project/plupload)
 - [file_browser](https://www.drupal.org/project/file_browser)
 
-Drupal file utilities:
+### Drupal file utilities:
 
 - [filefield_sources](https://www.drupal.org/project/filefield_sources)
 - [filefield_paths](https://www.drupal.org/project/filefield_paths)
 - [external_media](https://www.drupal.org/project/external_media)
 
-Other (paid):
+### Other (paid):
 
 - https://ckeditor.com/ckfinder
 - https://ckeditor.com/ckbox
