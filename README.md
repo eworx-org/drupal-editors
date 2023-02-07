@@ -101,6 +101,7 @@ See also the work of [D.O. UI Suite Initiative](https://www.drupal.org/project/u
 - [patternkit](https://www.drupal.org/project/patternkit)
 - [custom_elements](https://www.drupal.org/project/custom_elements)
 - [sfc](https://www.drupal.org/project/sfc)
+- [component_builder](https://www.drupal.org/project/component_builder)
 
 ## Drupal Themes
 
