@@ -40,6 +40,7 @@ Notice that the list does not contain "widget level" modules but only the high l
   - [url_embed](https://www.drupal.org/project/url_embed)
   - [shortcode](https://www.drupal.org/project/shortcode)
   - [shortify](https://www.drupal.org/project/shortify)
+- [formdazzle](https://www.drupal.org/project/formdazzle)
 - [**gutenberg**](https://www.drupal.org/project/gutenberg)
 - [**h5p**](https://www.drupal.org/project/h5p)
 - [**inline_entity_form**](https://www.drupal.org/project/inline_entity_form)
