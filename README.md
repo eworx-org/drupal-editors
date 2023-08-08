@@ -33,6 +33,7 @@ Notice that the list does not contain "widget level" modules but only the high l
 - [**ckeditor**](https://www.drupal.org/project/ckeditor) (core)
   - [ckeditor_templates](https://www.drupal.org/project/ckeditor_templates)
   - [ckeditor_templates_ui](https://www.drupal.org/project/ckeditor_templates_ui)
+  - [ckeditor5_embedded_content](https://www.drupal.org/project/ckeditor5_embedded_content)
   - [wysiwyg_template](https://www.drupal.org/project/wysiwyg_template)
   - [ckeditor_standalone_styles](https://www.drupal.org/project/ckeditor_standalone_styles)
   - [embed](https://www.drupal.org/project/embed)
