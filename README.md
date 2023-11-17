@@ -30,7 +30,7 @@ Notice that the list does not contain "widget level" modules but only the high l
   - [layoutbuilder_extras](https://www.drupal.org/project/layoutbuilder_extras)
   - [ui_styles](https://www.drupal.org/project/ui_styles)
   - [varbase_layout_builder](https://www.drupal.org/project/varbase_layout_builder)
-- [**ckeditor5**](https://www.drupal.org/project/core) (core)
+- [**ckeditor5**](https://www.drupal.org/project/core) (core, see related documentation on [D.O. - Upgrade coordination for modules providing CKEditor 4 plugins](https://www.drupal.org/node/3273985))
   - [ckeditor_templates_upgrade](https://www.drupal.org/project/ckeditor_templates_upgrade)
   - [ckeditor5_template](https://www.drupal.org/project/ckeditor5_template)
   - [ckeditor5_embedded_content](https://www.drupal.org/project/ckeditor5_embedded_content)
