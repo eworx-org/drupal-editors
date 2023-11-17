@@ -42,6 +42,7 @@ Notice that the list does not contain "widget level" modules but only the high l
   - [ckeditor5_icons](https://www.drupal.org/project/ckeditor5_icons)
   - [ckeditor5_paste_filter](https://www.drupal.org/project/ckeditor5_paste_filter)
   - [ckeditor5_dev](https://www.drupal.org/project/ckeditor5_dev)
+  - [ckeditor5_premium_features](https://www.drupal.org/project/ckeditor5_premium_features)
 - [**ckeditor (4.x)**](https://www.drupal.org/project/ckeditor) (core)
   - [ckeditor_templates](https://www.drupal.org/project/ckeditor_templates)
   - [ckeditor_templates_ui](https://www.drupal.org/project/ckeditor_templates_ui)
