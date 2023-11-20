@@ -35,6 +35,7 @@ Notice that the list does not contain "widget level" modules but only the high l
   - [ckeditor5_template](https://www.drupal.org/project/ckeditor5_template)
   - [entity_embed](https://www.drupal.org/project/entity_embed)
   - [ckeditor5_embedded_content](https://www.drupal.org/project/ckeditor5_embedded_content)
+  - [ckeditor_link_styles](https://www.drupal.org/project/ckeditor_link_styles)
   - [ckeditor5_font](https://www.drupal.org/project/ckeditor5_font)
   - [ckeditor5_show_block](https://www.drupal.org/project/ckeditor5_show_block)
   - [ckeditor_div_manager](https://www.drupal.org/project/ckeditor_div_manager)
